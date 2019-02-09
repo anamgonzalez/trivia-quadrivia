@@ -1,4 +1,4 @@
-# TriviaProject
+# About Trivia Quadrivia
 
 Team based Project that focuses on React, JavaScript, HTML, CSS. 
 
